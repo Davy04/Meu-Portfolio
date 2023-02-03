@@ -19,13 +19,13 @@ button {
     border-radius: 25px;
     cursor: pointer;
     color: white;
-    background-color: #493737;
+    background-color: #002b68;
     border: none;
     transition: ease-in-out 0.3s;
 }
 
 button:hover {
-    background-color: #a16c60;
+    background-color: #001026;
 }
 
 .github-link {
@@ -45,7 +45,7 @@ button:hover {
 
 .pro {
     background-color: #C4C4C4;
-    height: 195px;
+    height: 175px;
     width: 310px;
     border-radius: 20px;
     display: flex;
@@ -67,7 +67,7 @@ button:hover {
 }
 
 .pro div {
-    background-color: #705656;
+    background-color: #002b68;
     width: 1000px;
     text-align: center;
     padding: 5% 0;
